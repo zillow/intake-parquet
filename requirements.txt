@@ -3,3 +3,5 @@ pandas
 dask
 fastparquet
 pyarrow
+msgpack
+requests
